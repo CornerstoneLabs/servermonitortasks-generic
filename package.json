@@ -1,6 +1,6 @@
 {
   "name": "cornerstonelabs-servermonitortasks-generic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generic tasks for the server monitor tool.",
   "main": "index.js",
   "scripts": {
