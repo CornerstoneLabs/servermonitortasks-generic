@@ -1,0 +1,19 @@
+{
+  "name": "cornerstonelabs-servermonitortasks-generic",
+  "version": "1.0.0",
+  "description": "Generic tasks for the server monitor tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CornerstoneLabs/servermonitortasks-generic.git"
+  },
+  "author": "Cornerstone Labs Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CornerstoneLabs/servermonitortasks-generic/issues"
+  },
+  "homepage": "https://github.com/CornerstoneLabs/servermonitortasks-generic#readme"
+}
